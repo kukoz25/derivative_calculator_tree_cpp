@@ -1,0 +1,12 @@
+<map id="pochodnabeta3/interface.h" name="pochodnabeta3/interface.h">
+<area shape="rect" id="node1" title="odpowiada za komunikację z użytkownikiem." alt="" coords="207,5,382,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="146,304,218,331"/>
+<area shape="rect" id="node3" href="$drzewo_8h.html" title="tworzy drzewo i zawiera kilka funkcji dotyczących drzewa." alt="" coords="266,229,341,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="399,304,454,331"/>
+<area shape="rect" id="node5" href="$pochodna_8h.html" title="zawiera funckję zamieniającą drzewo na zmienną typu string oraz zamienia dane zawarte w niej na pocho..." alt="" coords="352,80,442,107"/>
+<area shape="rect" id="node6" href="$zdrzewaznowunastringa_8h.html" title="zawiera funkcje odpowiadające złożenie drzewa znowu w zmienną typu string" alt="" coords="209,155,380,181"/>
+<area shape="rect" id="node8" href="$rozbijanie_8h.html" title="zawiera funkcje odpowiadające za rozbicie zmiennej typu string na drzewo w odpowiednej kolejności." alt="" coords="505,155,593,181"/>
+<area shape="rect" id="node9" href="$upraszczanie_8h.html" title="zawiera szereg funkcji pozwalających uprościć w pewnych przypadkach zwracaną pochodną." alt="" coords="23,155,134,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="173,229,242,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="40,229,98,256"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="pochodnabeta3/drzewo.h" name="pochodnabeta3/drzewo.h">
+<area shape="rect" id="node1" title="tworzy drzewo i zawiera kilka funkcji dotyczących drzewa." alt="" coords="439,5,606,32"/>
+<area shape="rect" id="node2" href="$drzewo_8cpp.html" title=" " alt="" coords="13,80,193,107"/>
+<area shape="rect" id="node3" href="$interface_8h.html" title="odpowiada za komunikację z użytkownikiem." alt="" coords="539,229,714,256"/>
+<area shape="rect" id="node6" href="$pochodna_8h.html" title="zawiera funckję zamieniającą drzewo na zmienną typu string oraz zamienia dane zawarte w niej na pocho..." alt="" coords="5,155,187,181"/>
+<area shape="rect" id="node8" href="$zdrzewaznowunastringa_8h.html" title="zawiera funkcje odpowiadające złożenie drzewa znowu w zmienną typu string" alt="" coords="269,80,531,107"/>
+<area shape="rect" id="node10" href="$rozbijanie_8h.html" title="zawiera funkcje odpowiadające za rozbicie zmiennej typu string na drzewo w odpowiednej kolejności." alt="" coords="555,80,735,107"/>
+<area shape="rect" id="node12" href="$upraszczanie_8h.html" title="zawiera szereg funkcji pozwalających uprościć w pewnych przypadkach zwracaną pochodną." alt="" coords="795,80,997,107"/>
+<area shape="rect" id="node4" href="$interface_8cpp.html" title=" " alt="" coords="433,304,621,331"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="645,304,811,331"/>
+<area shape="rect" id="node7" href="$pochodna_8cpp.html" title=" " alt="" coords="63,229,257,256"/>
+<area shape="rect" id="node9" href="$zdrzewaznowunastringa_8cpp.html" title=" " alt="" coords="261,155,539,181"/>
+<area shape="rect" id="node11" href="$rozbijanie_8cpp.html" title=" " alt="" coords="664,155,859,181"/>
+<area shape="rect" id="node13" href="$upraszczanie_8cpp.html" title=" " alt="" coords="933,155,1149,181"/>
+</map>
